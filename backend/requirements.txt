@@ -1,0 +1,6 @@
+Flask
+pymysql
+flask-cors
+bcrypt
+PyJWT
+Werkzeug
